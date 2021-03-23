@@ -1,0 +1,13 @@
+D:\Desktop\HSTDH\Chapter4_VS\ConsoleInput\ConsoleInput\bin\Debug\netcoreapp3.1\ConsoleInput.exe
+D:\Desktop\HSTDH\Chapter4_VS\ConsoleInput\ConsoleInput\bin\Debug\netcoreapp3.1\ConsoleInput.deps.json
+D:\Desktop\HSTDH\Chapter4_VS\ConsoleInput\ConsoleInput\bin\Debug\netcoreapp3.1\ConsoleInput.runtimeconfig.json
+D:\Desktop\HSTDH\Chapter4_VS\ConsoleInput\ConsoleInput\bin\Debug\netcoreapp3.1\ConsoleInput.runtimeconfig.dev.json
+D:\Desktop\HSTDH\Chapter4_VS\ConsoleInput\ConsoleInput\bin\Debug\netcoreapp3.1\ConsoleInput.dll
+D:\Desktop\HSTDH\Chapter4_VS\ConsoleInput\ConsoleInput\bin\Debug\netcoreapp3.1\ConsoleInput.pdb
+D:\Desktop\HSTDH\Chapter4_VS\ConsoleInput\ConsoleInput\obj\Debug\netcoreapp3.1\ConsoleInput.csprojAssemblyReference.cache
+D:\Desktop\HSTDH\Chapter4_VS\ConsoleInput\ConsoleInput\obj\Debug\netcoreapp3.1\ConsoleInput.AssemblyInfoInputs.cache
+D:\Desktop\HSTDH\Chapter4_VS\ConsoleInput\ConsoleInput\obj\Debug\netcoreapp3.1\ConsoleInput.AssemblyInfo.cs
+D:\Desktop\HSTDH\Chapter4_VS\ConsoleInput\ConsoleInput\obj\Debug\netcoreapp3.1\ConsoleInput.csproj.CoreCompileInputs.cache
+D:\Desktop\HSTDH\Chapter4_VS\ConsoleInput\ConsoleInput\obj\Debug\netcoreapp3.1\ConsoleInput.dll
+D:\Desktop\HSTDH\Chapter4_VS\ConsoleInput\ConsoleInput\obj\Debug\netcoreapp3.1\ConsoleInput.pdb
+D:\Desktop\HSTDH\Chapter4_VS\ConsoleInput\ConsoleInput\obj\Debug\netcoreapp3.1\ConsoleInput.genruntimeconfig.cache

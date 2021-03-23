@@ -1,0 +1,13 @@
+D:\Desktop\HSTDH\Guru99\C#_Data_Types\Data_Types\boolean\bin\Debug\netcoreapp3.1\boolean.exe
+D:\Desktop\HSTDH\Guru99\C#_Data_Types\Data_Types\boolean\bin\Debug\netcoreapp3.1\boolean.deps.json
+D:\Desktop\HSTDH\Guru99\C#_Data_Types\Data_Types\boolean\bin\Debug\netcoreapp3.1\boolean.runtimeconfig.json
+D:\Desktop\HSTDH\Guru99\C#_Data_Types\Data_Types\boolean\bin\Debug\netcoreapp3.1\boolean.runtimeconfig.dev.json
+D:\Desktop\HSTDH\Guru99\C#_Data_Types\Data_Types\boolean\bin\Debug\netcoreapp3.1\boolean.dll
+D:\Desktop\HSTDH\Guru99\C#_Data_Types\Data_Types\boolean\bin\Debug\netcoreapp3.1\boolean.pdb
+D:\Desktop\HSTDH\Guru99\C#_Data_Types\Data_Types\boolean\obj\Debug\netcoreapp3.1\boolean.csprojAssemblyReference.cache
+D:\Desktop\HSTDH\Guru99\C#_Data_Types\Data_Types\boolean\obj\Debug\netcoreapp3.1\boolean.AssemblyInfoInputs.cache
+D:\Desktop\HSTDH\Guru99\C#_Data_Types\Data_Types\boolean\obj\Debug\netcoreapp3.1\boolean.AssemblyInfo.cs
+D:\Desktop\HSTDH\Guru99\C#_Data_Types\Data_Types\boolean\obj\Debug\netcoreapp3.1\boolean.csproj.CoreCompileInputs.cache
+D:\Desktop\HSTDH\Guru99\C#_Data_Types\Data_Types\boolean\obj\Debug\netcoreapp3.1\boolean.dll
+D:\Desktop\HSTDH\Guru99\C#_Data_Types\Data_Types\boolean\obj\Debug\netcoreapp3.1\boolean.pdb
+D:\Desktop\HSTDH\Guru99\C#_Data_Types\Data_Types\boolean\obj\Debug\netcoreapp3.1\boolean.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Desktop\HSTDH\Guru99\C#7_Class & Object\ClassandObjetct\ClassandObjetct\bin\Debug\netcoreapp3.1\ClassandObjetct.exe
+D:\Desktop\HSTDH\Guru99\C#7_Class & Object\ClassandObjetct\ClassandObjetct\bin\Debug\netcoreapp3.1\ClassandObjetct.deps.json
+D:\Desktop\HSTDH\Guru99\C#7_Class & Object\ClassandObjetct\ClassandObjetct\bin\Debug\netcoreapp3.1\ClassandObjetct.runtimeconfig.json
+D:\Desktop\HSTDH\Guru99\C#7_Class & Object\ClassandObjetct\ClassandObjetct\bin\Debug\netcoreapp3.1\ClassandObjetct.runtimeconfig.dev.json
+D:\Desktop\HSTDH\Guru99\C#7_Class & Object\ClassandObjetct\ClassandObjetct\bin\Debug\netcoreapp3.1\ClassandObjetct.dll
+D:\Desktop\HSTDH\Guru99\C#7_Class & Object\ClassandObjetct\ClassandObjetct\bin\Debug\netcoreapp3.1\ClassandObjetct.pdb
+D:\Desktop\HSTDH\Guru99\C#7_Class & Object\ClassandObjetct\ClassandObjetct\obj\Debug\netcoreapp3.1\ClassandObjetct.csprojAssemblyReference.cache
+D:\Desktop\HSTDH\Guru99\C#7_Class & Object\ClassandObjetct\ClassandObjetct\obj\Debug\netcoreapp3.1\ClassandObjetct.AssemblyInfoInputs.cache
+D:\Desktop\HSTDH\Guru99\C#7_Class & Object\ClassandObjetct\ClassandObjetct\obj\Debug\netcoreapp3.1\ClassandObjetct.AssemblyInfo.cs
+D:\Desktop\HSTDH\Guru99\C#7_Class & Object\ClassandObjetct\ClassandObjetct\obj\Debug\netcoreapp3.1\ClassandObjetct.csproj.CoreCompileInputs.cache
+D:\Desktop\HSTDH\Guru99\C#7_Class & Object\ClassandObjetct\ClassandObjetct\obj\Debug\netcoreapp3.1\ClassandObjetct.dll
+D:\Desktop\HSTDH\Guru99\C#7_Class & Object\ClassandObjetct\ClassandObjetct\obj\Debug\netcoreapp3.1\ClassandObjetct.pdb
+D:\Desktop\HSTDH\Guru99\C#7_Class & Object\ClassandObjetct\ClassandObjetct\obj\Debug\netcoreapp3.1\ClassandObjetct.genruntimeconfig.cache

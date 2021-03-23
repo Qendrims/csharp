@@ -1,0 +1,13 @@
+D:\Desktop\HSTDH\Guru99\C#2_Data_Types\Data_Types\Double\bin\Debug\netcoreapp3.1\Double.exe
+D:\Desktop\HSTDH\Guru99\C#2_Data_Types\Data_Types\Double\bin\Debug\netcoreapp3.1\Double.deps.json
+D:\Desktop\HSTDH\Guru99\C#2_Data_Types\Data_Types\Double\bin\Debug\netcoreapp3.1\Double.runtimeconfig.json
+D:\Desktop\HSTDH\Guru99\C#2_Data_Types\Data_Types\Double\bin\Debug\netcoreapp3.1\Double.runtimeconfig.dev.json
+D:\Desktop\HSTDH\Guru99\C#2_Data_Types\Data_Types\Double\bin\Debug\netcoreapp3.1\Double.dll
+D:\Desktop\HSTDH\Guru99\C#2_Data_Types\Data_Types\Double\bin\Debug\netcoreapp3.1\Double.pdb
+D:\Desktop\HSTDH\Guru99\C#2_Data_Types\Data_Types\Double\obj\Debug\netcoreapp3.1\Double.csprojAssemblyReference.cache
+D:\Desktop\HSTDH\Guru99\C#2_Data_Types\Data_Types\Double\obj\Debug\netcoreapp3.1\Double.AssemblyInfoInputs.cache
+D:\Desktop\HSTDH\Guru99\C#2_Data_Types\Data_Types\Double\obj\Debug\netcoreapp3.1\Double.AssemblyInfo.cs
+D:\Desktop\HSTDH\Guru99\C#2_Data_Types\Data_Types\Double\obj\Debug\netcoreapp3.1\Double.csproj.CoreCompileInputs.cache
+D:\Desktop\HSTDH\Guru99\C#2_Data_Types\Data_Types\Double\obj\Debug\netcoreapp3.1\Double.dll
+D:\Desktop\HSTDH\Guru99\C#2_Data_Types\Data_Types\Double\obj\Debug\netcoreapp3.1\Double.pdb
+D:\Desktop\HSTDH\Guru99\C#2_Data_Types\Data_Types\Double\obj\Debug\netcoreapp3.1\Double.genruntimeconfig.cache

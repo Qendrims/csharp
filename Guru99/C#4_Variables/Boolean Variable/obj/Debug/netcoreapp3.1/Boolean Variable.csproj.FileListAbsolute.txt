@@ -1,0 +1,12 @@
+D:\Desktop\HSTDH\Guru99\C#4_Variables\Boolean Variable\bin\Debug\netcoreapp3.1\Boolean Variable.exe
+D:\Desktop\HSTDH\Guru99\C#4_Variables\Boolean Variable\bin\Debug\netcoreapp3.1\Boolean Variable.deps.json
+D:\Desktop\HSTDH\Guru99\C#4_Variables\Boolean Variable\bin\Debug\netcoreapp3.1\Boolean Variable.runtimeconfig.json
+D:\Desktop\HSTDH\Guru99\C#4_Variables\Boolean Variable\bin\Debug\netcoreapp3.1\Boolean Variable.runtimeconfig.dev.json
+D:\Desktop\HSTDH\Guru99\C#4_Variables\Boolean Variable\bin\Debug\netcoreapp3.1\Boolean Variable.dll
+D:\Desktop\HSTDH\Guru99\C#4_Variables\Boolean Variable\bin\Debug\netcoreapp3.1\Boolean Variable.pdb
+D:\Desktop\HSTDH\Guru99\C#4_Variables\Boolean Variable\obj\Debug\netcoreapp3.1\Boolean Variable.AssemblyInfoInputs.cache
+D:\Desktop\HSTDH\Guru99\C#4_Variables\Boolean Variable\obj\Debug\netcoreapp3.1\Boolean Variable.AssemblyInfo.cs
+D:\Desktop\HSTDH\Guru99\C#4_Variables\Boolean Variable\obj\Debug\netcoreapp3.1\Boolean Variable.csproj.CoreCompileInputs.cache
+D:\Desktop\HSTDH\Guru99\C#4_Variables\Boolean Variable\obj\Debug\netcoreapp3.1\Boolean Variable.dll
+D:\Desktop\HSTDH\Guru99\C#4_Variables\Boolean Variable\obj\Debug\netcoreapp3.1\Boolean Variable.pdb
+D:\Desktop\HSTDH\Guru99\C#4_Variables\Boolean Variable\obj\Debug\netcoreapp3.1\Boolean Variable.genruntimeconfig.cache

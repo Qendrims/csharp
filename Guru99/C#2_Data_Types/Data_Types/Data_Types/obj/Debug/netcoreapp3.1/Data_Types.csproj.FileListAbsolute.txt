@@ -1,0 +1,12 @@
+D:\Desktop\HSTDH\Guru99\C#_Data_Types\Data_Types\Data_Types\bin\Debug\netcoreapp3.1\Data_Types.exe
+D:\Desktop\HSTDH\Guru99\C#_Data_Types\Data_Types\Data_Types\bin\Debug\netcoreapp3.1\Data_Types.deps.json
+D:\Desktop\HSTDH\Guru99\C#_Data_Types\Data_Types\Data_Types\bin\Debug\netcoreapp3.1\Data_Types.runtimeconfig.json
+D:\Desktop\HSTDH\Guru99\C#_Data_Types\Data_Types\Data_Types\bin\Debug\netcoreapp3.1\Data_Types.runtimeconfig.dev.json
+D:\Desktop\HSTDH\Guru99\C#_Data_Types\Data_Types\Data_Types\bin\Debug\netcoreapp3.1\Data_Types.dll
+D:\Desktop\HSTDH\Guru99\C#_Data_Types\Data_Types\Data_Types\bin\Debug\netcoreapp3.1\Data_Types.pdb
+D:\Desktop\HSTDH\Guru99\C#_Data_Types\Data_Types\Data_Types\obj\Debug\netcoreapp3.1\Data_Types.AssemblyInfoInputs.cache
+D:\Desktop\HSTDH\Guru99\C#_Data_Types\Data_Types\Data_Types\obj\Debug\netcoreapp3.1\Data_Types.AssemblyInfo.cs
+D:\Desktop\HSTDH\Guru99\C#_Data_Types\Data_Types\Data_Types\obj\Debug\netcoreapp3.1\Data_Types.csproj.CoreCompileInputs.cache
+D:\Desktop\HSTDH\Guru99\C#_Data_Types\Data_Types\Data_Types\obj\Debug\netcoreapp3.1\Data_Types.dll
+D:\Desktop\HSTDH\Guru99\C#_Data_Types\Data_Types\Data_Types\obj\Debug\netcoreapp3.1\Data_Types.pdb
+D:\Desktop\HSTDH\Guru99\C#_Data_Types\Data_Types\Data_Types\obj\Debug\netcoreapp3.1\Data_Types.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Desktop\HSTDH\Guru99\C#3_Enumeration\Enumeration\Enumeration\bin\Debug\netcoreapp3.1\Enumeration.exe
+D:\Desktop\HSTDH\Guru99\C#3_Enumeration\Enumeration\Enumeration\bin\Debug\netcoreapp3.1\Enumeration.deps.json
+D:\Desktop\HSTDH\Guru99\C#3_Enumeration\Enumeration\Enumeration\bin\Debug\netcoreapp3.1\Enumeration.runtimeconfig.json
+D:\Desktop\HSTDH\Guru99\C#3_Enumeration\Enumeration\Enumeration\bin\Debug\netcoreapp3.1\Enumeration.runtimeconfig.dev.json
+D:\Desktop\HSTDH\Guru99\C#3_Enumeration\Enumeration\Enumeration\bin\Debug\netcoreapp3.1\Enumeration.dll
+D:\Desktop\HSTDH\Guru99\C#3_Enumeration\Enumeration\Enumeration\bin\Debug\netcoreapp3.1\Enumeration.pdb
+D:\Desktop\HSTDH\Guru99\C#3_Enumeration\Enumeration\Enumeration\obj\Debug\netcoreapp3.1\Enumeration.csprojAssemblyReference.cache
+D:\Desktop\HSTDH\Guru99\C#3_Enumeration\Enumeration\Enumeration\obj\Debug\netcoreapp3.1\Enumeration.AssemblyInfoInputs.cache
+D:\Desktop\HSTDH\Guru99\C#3_Enumeration\Enumeration\Enumeration\obj\Debug\netcoreapp3.1\Enumeration.AssemblyInfo.cs
+D:\Desktop\HSTDH\Guru99\C#3_Enumeration\Enumeration\Enumeration\obj\Debug\netcoreapp3.1\Enumeration.csproj.CoreCompileInputs.cache
+D:\Desktop\HSTDH\Guru99\C#3_Enumeration\Enumeration\Enumeration\obj\Debug\netcoreapp3.1\Enumeration.dll
+D:\Desktop\HSTDH\Guru99\C#3_Enumeration\Enumeration\Enumeration\obj\Debug\netcoreapp3.1\Enumeration.pdb
+D:\Desktop\HSTDH\Guru99\C#3_Enumeration\Enumeration\Enumeration\obj\Debug\netcoreapp3.1\Enumeration.genruntimeconfig.cache

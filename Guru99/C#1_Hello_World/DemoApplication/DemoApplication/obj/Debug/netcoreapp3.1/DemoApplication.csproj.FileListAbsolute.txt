@@ -1,0 +1,13 @@
+D:\Desktop\HSTDH\Guru99\C#_Hello_World\DemoApplication\DemoApplication\bin\Debug\netcoreapp3.1\DemoApplication.exe
+D:\Desktop\HSTDH\Guru99\C#_Hello_World\DemoApplication\DemoApplication\bin\Debug\netcoreapp3.1\DemoApplication.deps.json
+D:\Desktop\HSTDH\Guru99\C#_Hello_World\DemoApplication\DemoApplication\bin\Debug\netcoreapp3.1\DemoApplication.runtimeconfig.json
+D:\Desktop\HSTDH\Guru99\C#_Hello_World\DemoApplication\DemoApplication\bin\Debug\netcoreapp3.1\DemoApplication.runtimeconfig.dev.json
+D:\Desktop\HSTDH\Guru99\C#_Hello_World\DemoApplication\DemoApplication\bin\Debug\netcoreapp3.1\DemoApplication.dll
+D:\Desktop\HSTDH\Guru99\C#_Hello_World\DemoApplication\DemoApplication\bin\Debug\netcoreapp3.1\DemoApplication.pdb
+D:\Desktop\HSTDH\Guru99\C#_Hello_World\DemoApplication\DemoApplication\obj\Debug\netcoreapp3.1\DemoApplication.csprojAssemblyReference.cache
+D:\Desktop\HSTDH\Guru99\C#_Hello_World\DemoApplication\DemoApplication\obj\Debug\netcoreapp3.1\DemoApplication.AssemblyInfoInputs.cache
+D:\Desktop\HSTDH\Guru99\C#_Hello_World\DemoApplication\DemoApplication\obj\Debug\netcoreapp3.1\DemoApplication.AssemblyInfo.cs
+D:\Desktop\HSTDH\Guru99\C#_Hello_World\DemoApplication\DemoApplication\obj\Debug\netcoreapp3.1\DemoApplication.csproj.CoreCompileInputs.cache
+D:\Desktop\HSTDH\Guru99\C#_Hello_World\DemoApplication\DemoApplication\obj\Debug\netcoreapp3.1\DemoApplication.dll
+D:\Desktop\HSTDH\Guru99\C#_Hello_World\DemoApplication\DemoApplication\obj\Debug\netcoreapp3.1\DemoApplication.pdb
+D:\Desktop\HSTDH\Guru99\C#_Hello_World\DemoApplication\DemoApplication\obj\Debug\netcoreapp3.1\DemoApplication.genruntimeconfig.cache

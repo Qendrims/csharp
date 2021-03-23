@@ -1,0 +1,13 @@
+D:\Desktop\HSTDH\Chapter6_VS\Loops1\Loops1\obj\Debug\netcoreapp3.1\Loops1.csprojAssemblyReference.cache
+D:\Desktop\HSTDH\Chapter6_VS\Loops1\Loops1\obj\Debug\netcoreapp3.1\Loops1.AssemblyInfoInputs.cache
+D:\Desktop\HSTDH\Chapter6_VS\Loops1\Loops1\obj\Debug\netcoreapp3.1\Loops1.AssemblyInfo.cs
+D:\Desktop\HSTDH\Chapter6_VS\Loops1\Loops1\obj\Debug\netcoreapp3.1\Loops1.csproj.CoreCompileInputs.cache
+D:\Desktop\HSTDH\Chapter6_VS\Loops1\Loops1\bin\Debug\netcoreapp3.1\Loops1.exe
+D:\Desktop\HSTDH\Chapter6_VS\Loops1\Loops1\bin\Debug\netcoreapp3.1\Loops1.deps.json
+D:\Desktop\HSTDH\Chapter6_VS\Loops1\Loops1\bin\Debug\netcoreapp3.1\Loops1.runtimeconfig.json
+D:\Desktop\HSTDH\Chapter6_VS\Loops1\Loops1\bin\Debug\netcoreapp3.1\Loops1.runtimeconfig.dev.json
+D:\Desktop\HSTDH\Chapter6_VS\Loops1\Loops1\bin\Debug\netcoreapp3.1\Loops1.dll
+D:\Desktop\HSTDH\Chapter6_VS\Loops1\Loops1\bin\Debug\netcoreapp3.1\Loops1.pdb
+D:\Desktop\HSTDH\Chapter6_VS\Loops1\Loops1\obj\Debug\netcoreapp3.1\Loops1.dll
+D:\Desktop\HSTDH\Chapter6_VS\Loops1\Loops1\obj\Debug\netcoreapp3.1\Loops1.pdb
+D:\Desktop\HSTDH\Chapter6_VS\Loops1\Loops1\obj\Debug\netcoreapp3.1\Loops1.genruntimeconfig.cache

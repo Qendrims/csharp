@@ -1,0 +1,13 @@
+D:\Desktop\HSTDH\Chapter3_VS\Demoapplication\Demoapplication\bin\Debug\netcoreapp3.1\Demoapplication.exe
+D:\Desktop\HSTDH\Chapter3_VS\Demoapplication\Demoapplication\bin\Debug\netcoreapp3.1\Demoapplication.deps.json
+D:\Desktop\HSTDH\Chapter3_VS\Demoapplication\Demoapplication\bin\Debug\netcoreapp3.1\Demoapplication.runtimeconfig.json
+D:\Desktop\HSTDH\Chapter3_VS\Demoapplication\Demoapplication\bin\Debug\netcoreapp3.1\Demoapplication.runtimeconfig.dev.json
+D:\Desktop\HSTDH\Chapter3_VS\Demoapplication\Demoapplication\bin\Debug\netcoreapp3.1\Demoapplication.dll
+D:\Desktop\HSTDH\Chapter3_VS\Demoapplication\Demoapplication\bin\Debug\netcoreapp3.1\Demoapplication.pdb
+D:\Desktop\HSTDH\Chapter3_VS\Demoapplication\Demoapplication\obj\Debug\netcoreapp3.1\Demoapplication.csprojAssemblyReference.cache
+D:\Desktop\HSTDH\Chapter3_VS\Demoapplication\Demoapplication\obj\Debug\netcoreapp3.1\Demoapplication.AssemblyInfoInputs.cache
+D:\Desktop\HSTDH\Chapter3_VS\Demoapplication\Demoapplication\obj\Debug\netcoreapp3.1\Demoapplication.AssemblyInfo.cs
+D:\Desktop\HSTDH\Chapter3_VS\Demoapplication\Demoapplication\obj\Debug\netcoreapp3.1\Demoapplication.csproj.CoreCompileInputs.cache
+D:\Desktop\HSTDH\Chapter3_VS\Demoapplication\Demoapplication\obj\Debug\netcoreapp3.1\Demoapplication.dll
+D:\Desktop\HSTDH\Chapter3_VS\Demoapplication\Demoapplication\obj\Debug\netcoreapp3.1\Demoapplication.pdb
+D:\Desktop\HSTDH\Chapter3_VS\Demoapplication\Demoapplication\obj\Debug\netcoreapp3.1\Demoapplication.genruntimeconfig.cache

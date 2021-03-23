@@ -1,0 +1,13 @@
+D:\Desktop\HSTDH\Chapter1_VS\MyProject\MyProject\bin\Debug\netcoreapp3.1\MyProject.exe
+D:\Desktop\HSTDH\Chapter1_VS\MyProject\MyProject\bin\Debug\netcoreapp3.1\MyProject.deps.json
+D:\Desktop\HSTDH\Chapter1_VS\MyProject\MyProject\bin\Debug\netcoreapp3.1\MyProject.runtimeconfig.json
+D:\Desktop\HSTDH\Chapter1_VS\MyProject\MyProject\bin\Debug\netcoreapp3.1\MyProject.runtimeconfig.dev.json
+D:\Desktop\HSTDH\Chapter1_VS\MyProject\MyProject\bin\Debug\netcoreapp3.1\MyProject.dll
+D:\Desktop\HSTDH\Chapter1_VS\MyProject\MyProject\bin\Debug\netcoreapp3.1\MyProject.pdb
+D:\Desktop\HSTDH\Chapter1_VS\MyProject\MyProject\obj\Debug\netcoreapp3.1\MyProject.csprojAssemblyReference.cache
+D:\Desktop\HSTDH\Chapter1_VS\MyProject\MyProject\obj\Debug\netcoreapp3.1\MyProject.AssemblyInfoInputs.cache
+D:\Desktop\HSTDH\Chapter1_VS\MyProject\MyProject\obj\Debug\netcoreapp3.1\MyProject.AssemblyInfo.cs
+D:\Desktop\HSTDH\Chapter1_VS\MyProject\MyProject\obj\Debug\netcoreapp3.1\MyProject.csproj.CoreCompileInputs.cache
+D:\Desktop\HSTDH\Chapter1_VS\MyProject\MyProject\obj\Debug\netcoreapp3.1\MyProject.dll
+D:\Desktop\HSTDH\Chapter1_VS\MyProject\MyProject\obj\Debug\netcoreapp3.1\MyProject.pdb
+D:\Desktop\HSTDH\Chapter1_VS\MyProject\MyProject\obj\Debug\netcoreapp3.1\MyProject.genruntimeconfig.cache

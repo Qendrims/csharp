@@ -1,0 +1,13 @@
+D:\Desktop\HSTDH\Guru99\C#6_Arrays\Arrays\Arrays\bin\Debug\netcoreapp3.1\Arrays.exe
+D:\Desktop\HSTDH\Guru99\C#6_Arrays\Arrays\Arrays\bin\Debug\netcoreapp3.1\Arrays.deps.json
+D:\Desktop\HSTDH\Guru99\C#6_Arrays\Arrays\Arrays\bin\Debug\netcoreapp3.1\Arrays.runtimeconfig.json
+D:\Desktop\HSTDH\Guru99\C#6_Arrays\Arrays\Arrays\bin\Debug\netcoreapp3.1\Arrays.runtimeconfig.dev.json
+D:\Desktop\HSTDH\Guru99\C#6_Arrays\Arrays\Arrays\bin\Debug\netcoreapp3.1\Arrays.dll
+D:\Desktop\HSTDH\Guru99\C#6_Arrays\Arrays\Arrays\bin\Debug\netcoreapp3.1\Arrays.pdb
+D:\Desktop\HSTDH\Guru99\C#6_Arrays\Arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.csprojAssemblyReference.cache
+D:\Desktop\HSTDH\Guru99\C#6_Arrays\Arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.AssemblyInfoInputs.cache
+D:\Desktop\HSTDH\Guru99\C#6_Arrays\Arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.AssemblyInfo.cs
+D:\Desktop\HSTDH\Guru99\C#6_Arrays\Arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.csproj.CoreCompileInputs.cache
+D:\Desktop\HSTDH\Guru99\C#6_Arrays\Arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.dll
+D:\Desktop\HSTDH\Guru99\C#6_Arrays\Arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.pdb
+D:\Desktop\HSTDH\Guru99\C#6_Arrays\Arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.genruntimeconfig.cache

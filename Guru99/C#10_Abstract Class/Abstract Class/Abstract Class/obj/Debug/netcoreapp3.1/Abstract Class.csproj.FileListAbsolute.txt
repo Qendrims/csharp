@@ -1,0 +1,13 @@
+D:\Desktop\HSTDH\Guru99\C#10_Abstract Class\Abstract Class\Abstract Class\obj\Debug\netcoreapp3.1\Abstract Class.csprojAssemblyReference.cache
+D:\Desktop\HSTDH\Guru99\C#10_Abstract Class\Abstract Class\Abstract Class\obj\Debug\netcoreapp3.1\Abstract Class.AssemblyInfoInputs.cache
+D:\Desktop\HSTDH\Guru99\C#10_Abstract Class\Abstract Class\Abstract Class\obj\Debug\netcoreapp3.1\Abstract Class.AssemblyInfo.cs
+D:\Desktop\HSTDH\Guru99\C#10_Abstract Class\Abstract Class\Abstract Class\obj\Debug\netcoreapp3.1\Abstract Class.csproj.CoreCompileInputs.cache
+D:\Desktop\HSTDH\Guru99\C#10_Abstract Class\Abstract Class\Abstract Class\bin\Debug\netcoreapp3.1\Abstract Class.exe
+D:\Desktop\HSTDH\Guru99\C#10_Abstract Class\Abstract Class\Abstract Class\bin\Debug\netcoreapp3.1\Abstract Class.deps.json
+D:\Desktop\HSTDH\Guru99\C#10_Abstract Class\Abstract Class\Abstract Class\bin\Debug\netcoreapp3.1\Abstract Class.runtimeconfig.json
+D:\Desktop\HSTDH\Guru99\C#10_Abstract Class\Abstract Class\Abstract Class\bin\Debug\netcoreapp3.1\Abstract Class.runtimeconfig.dev.json
+D:\Desktop\HSTDH\Guru99\C#10_Abstract Class\Abstract Class\Abstract Class\bin\Debug\netcoreapp3.1\Abstract Class.dll
+D:\Desktop\HSTDH\Guru99\C#10_Abstract Class\Abstract Class\Abstract Class\bin\Debug\netcoreapp3.1\Abstract Class.pdb
+D:\Desktop\HSTDH\Guru99\C#10_Abstract Class\Abstract Class\Abstract Class\obj\Debug\netcoreapp3.1\Abstract Class.dll
+D:\Desktop\HSTDH\Guru99\C#10_Abstract Class\Abstract Class\Abstract Class\obj\Debug\netcoreapp3.1\Abstract Class.pdb
+D:\Desktop\HSTDH\Guru99\C#10_Abstract Class\Abstract Class\Abstract Class\obj\Debug\netcoreapp3.1\Abstract Class.genruntimeconfig.cache

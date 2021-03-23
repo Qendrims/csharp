@@ -1,0 +1,13 @@
+D:\Desktop\HSTDH\Chapter3_VS\Vazhdim\Vazhdim\bin\Debug\netcoreapp3.1\Vazhdim.exe
+D:\Desktop\HSTDH\Chapter3_VS\Vazhdim\Vazhdim\bin\Debug\netcoreapp3.1\Vazhdim.deps.json
+D:\Desktop\HSTDH\Chapter3_VS\Vazhdim\Vazhdim\bin\Debug\netcoreapp3.1\Vazhdim.runtimeconfig.json
+D:\Desktop\HSTDH\Chapter3_VS\Vazhdim\Vazhdim\bin\Debug\netcoreapp3.1\Vazhdim.runtimeconfig.dev.json
+D:\Desktop\HSTDH\Chapter3_VS\Vazhdim\Vazhdim\bin\Debug\netcoreapp3.1\Vazhdim.dll
+D:\Desktop\HSTDH\Chapter3_VS\Vazhdim\Vazhdim\bin\Debug\netcoreapp3.1\Vazhdim.pdb
+D:\Desktop\HSTDH\Chapter3_VS\Vazhdim\Vazhdim\obj\Debug\netcoreapp3.1\Vazhdim.csprojAssemblyReference.cache
+D:\Desktop\HSTDH\Chapter3_VS\Vazhdim\Vazhdim\obj\Debug\netcoreapp3.1\Vazhdim.AssemblyInfoInputs.cache
+D:\Desktop\HSTDH\Chapter3_VS\Vazhdim\Vazhdim\obj\Debug\netcoreapp3.1\Vazhdim.AssemblyInfo.cs
+D:\Desktop\HSTDH\Chapter3_VS\Vazhdim\Vazhdim\obj\Debug\netcoreapp3.1\Vazhdim.csproj.CoreCompileInputs.cache
+D:\Desktop\HSTDH\Chapter3_VS\Vazhdim\Vazhdim\obj\Debug\netcoreapp3.1\Vazhdim.dll
+D:\Desktop\HSTDH\Chapter3_VS\Vazhdim\Vazhdim\obj\Debug\netcoreapp3.1\Vazhdim.pdb
+D:\Desktop\HSTDH\Chapter3_VS\Vazhdim\Vazhdim\obj\Debug\netcoreapp3.1\Vazhdim.genruntimeconfig.cache

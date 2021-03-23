@@ -1,0 +1,13 @@
+D:\Desktop\HSTDH\Guru99\C#8_Access Modifiers\AccessModifiers\AccessModifiers\bin\Debug\netcoreapp3.1\AccessModifiers.exe
+D:\Desktop\HSTDH\Guru99\C#8_Access Modifiers\AccessModifiers\AccessModifiers\bin\Debug\netcoreapp3.1\AccessModifiers.deps.json
+D:\Desktop\HSTDH\Guru99\C#8_Access Modifiers\AccessModifiers\AccessModifiers\bin\Debug\netcoreapp3.1\AccessModifiers.runtimeconfig.json
+D:\Desktop\HSTDH\Guru99\C#8_Access Modifiers\AccessModifiers\AccessModifiers\bin\Debug\netcoreapp3.1\AccessModifiers.runtimeconfig.dev.json
+D:\Desktop\HSTDH\Guru99\C#8_Access Modifiers\AccessModifiers\AccessModifiers\bin\Debug\netcoreapp3.1\AccessModifiers.dll
+D:\Desktop\HSTDH\Guru99\C#8_Access Modifiers\AccessModifiers\AccessModifiers\bin\Debug\netcoreapp3.1\AccessModifiers.pdb
+D:\Desktop\HSTDH\Guru99\C#8_Access Modifiers\AccessModifiers\AccessModifiers\obj\Debug\netcoreapp3.1\AccessModifiers.csprojAssemblyReference.cache
+D:\Desktop\HSTDH\Guru99\C#8_Access Modifiers\AccessModifiers\AccessModifiers\obj\Debug\netcoreapp3.1\AccessModifiers.AssemblyInfoInputs.cache
+D:\Desktop\HSTDH\Guru99\C#8_Access Modifiers\AccessModifiers\AccessModifiers\obj\Debug\netcoreapp3.1\AccessModifiers.AssemblyInfo.cs
+D:\Desktop\HSTDH\Guru99\C#8_Access Modifiers\AccessModifiers\AccessModifiers\obj\Debug\netcoreapp3.1\AccessModifiers.csproj.CoreCompileInputs.cache
+D:\Desktop\HSTDH\Guru99\C#8_Access Modifiers\AccessModifiers\AccessModifiers\obj\Debug\netcoreapp3.1\AccessModifiers.dll
+D:\Desktop\HSTDH\Guru99\C#8_Access Modifiers\AccessModifiers\AccessModifiers\obj\Debug\netcoreapp3.1\AccessModifiers.pdb
+D:\Desktop\HSTDH\Guru99\C#8_Access Modifiers\AccessModifiers\AccessModifiers\obj\Debug\netcoreapp3.1\AccessModifiers.genruntimeconfig.cache

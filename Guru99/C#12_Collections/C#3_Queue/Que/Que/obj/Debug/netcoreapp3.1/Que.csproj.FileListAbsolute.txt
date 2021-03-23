@@ -1,0 +1,13 @@
+D:\Desktop\HSTDH\Guru99\C#12_Collections\C#3_Queue\Que\Que\obj\Debug\netcoreapp3.1\Que.csprojAssemblyReference.cache
+D:\Desktop\HSTDH\Guru99\C#12_Collections\C#3_Queue\Que\Que\obj\Debug\netcoreapp3.1\Que.AssemblyInfoInputs.cache
+D:\Desktop\HSTDH\Guru99\C#12_Collections\C#3_Queue\Que\Que\obj\Debug\netcoreapp3.1\Que.AssemblyInfo.cs
+D:\Desktop\HSTDH\Guru99\C#12_Collections\C#3_Queue\Que\Que\obj\Debug\netcoreapp3.1\Que.csproj.CoreCompileInputs.cache
+D:\Desktop\HSTDH\Guru99\C#12_Collections\C#3_Queue\Que\Que\bin\Debug\netcoreapp3.1\Que.exe
+D:\Desktop\HSTDH\Guru99\C#12_Collections\C#3_Queue\Que\Que\bin\Debug\netcoreapp3.1\Que.deps.json
+D:\Desktop\HSTDH\Guru99\C#12_Collections\C#3_Queue\Que\Que\bin\Debug\netcoreapp3.1\Que.runtimeconfig.json
+D:\Desktop\HSTDH\Guru99\C#12_Collections\C#3_Queue\Que\Que\bin\Debug\netcoreapp3.1\Que.runtimeconfig.dev.json
+D:\Desktop\HSTDH\Guru99\C#12_Collections\C#3_Queue\Que\Que\bin\Debug\netcoreapp3.1\Que.dll
+D:\Desktop\HSTDH\Guru99\C#12_Collections\C#3_Queue\Que\Que\bin\Debug\netcoreapp3.1\Que.pdb
+D:\Desktop\HSTDH\Guru99\C#12_Collections\C#3_Queue\Que\Que\obj\Debug\netcoreapp3.1\Que.dll
+D:\Desktop\HSTDH\Guru99\C#12_Collections\C#3_Queue\Que\Que\obj\Debug\netcoreapp3.1\Que.pdb
+D:\Desktop\HSTDH\Guru99\C#12_Collections\C#3_Queue\Que\Que\obj\Debug\netcoreapp3.1\Que.genruntimeconfig.cache

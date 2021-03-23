@@ -1,0 +1,13 @@
+D:\Desktop\HSTDH\Guru99\C#12_Collections\C#_Stack\ST2\bin\Debug\netcoreapp3.1\ST2.exe
+D:\Desktop\HSTDH\Guru99\C#12_Collections\C#_Stack\ST2\bin\Debug\netcoreapp3.1\ST2.deps.json
+D:\Desktop\HSTDH\Guru99\C#12_Collections\C#_Stack\ST2\bin\Debug\netcoreapp3.1\ST2.runtimeconfig.json
+D:\Desktop\HSTDH\Guru99\C#12_Collections\C#_Stack\ST2\bin\Debug\netcoreapp3.1\ST2.runtimeconfig.dev.json
+D:\Desktop\HSTDH\Guru99\C#12_Collections\C#_Stack\ST2\bin\Debug\netcoreapp3.1\ST2.dll
+D:\Desktop\HSTDH\Guru99\C#12_Collections\C#_Stack\ST2\bin\Debug\netcoreapp3.1\ST2.pdb
+D:\Desktop\HSTDH\Guru99\C#12_Collections\C#_Stack\ST2\obj\Debug\netcoreapp3.1\ST2.csprojAssemblyReference.cache
+D:\Desktop\HSTDH\Guru99\C#12_Collections\C#_Stack\ST2\obj\Debug\netcoreapp3.1\ST2.AssemblyInfoInputs.cache
+D:\Desktop\HSTDH\Guru99\C#12_Collections\C#_Stack\ST2\obj\Debug\netcoreapp3.1\ST2.AssemblyInfo.cs
+D:\Desktop\HSTDH\Guru99\C#12_Collections\C#_Stack\ST2\obj\Debug\netcoreapp3.1\ST2.csproj.CoreCompileInputs.cache
+D:\Desktop\HSTDH\Guru99\C#12_Collections\C#_Stack\ST2\obj\Debug\netcoreapp3.1\ST2.dll
+D:\Desktop\HSTDH\Guru99\C#12_Collections\C#_Stack\ST2\obj\Debug\netcoreapp3.1\ST2.pdb
+D:\Desktop\HSTDH\Guru99\C#12_Collections\C#_Stack\ST2\obj\Debug\netcoreapp3.1\ST2.genruntimeconfig.cache

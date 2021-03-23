@@ -1,0 +1,6 @@
+D:\Desktop\HSTDH\Guru99\C#14_DatabaseConnection\DBConnection\DBConnection\obj\Debug\netcoreapp3.1\DBConnection.csprojAssemblyReference.cache
+D:\Desktop\HSTDH\Guru99\C#14_DatabaseConnection\DBConnection\DBConnection\obj\Debug\netcoreapp3.1\DBConnection.Form1.resources
+D:\Desktop\HSTDH\Guru99\C#14_DatabaseConnection\DBConnection\DBConnection\obj\Debug\netcoreapp3.1\DBConnection.csproj.GenerateResource.cache
+D:\Desktop\HSTDH\Guru99\C#14_DatabaseConnection\DBConnection\DBConnection\obj\Debug\netcoreapp3.1\DBConnection.AssemblyInfoInputs.cache
+D:\Desktop\HSTDH\Guru99\C#14_DatabaseConnection\DBConnection\DBConnection\obj\Debug\netcoreapp3.1\DBConnection.AssemblyInfo.cs
+D:\Desktop\HSTDH\Guru99\C#14_DatabaseConnection\DBConnection\DBConnection\obj\Debug\netcoreapp3.1\DBConnection.csproj.CoreCompileInputs.cache
