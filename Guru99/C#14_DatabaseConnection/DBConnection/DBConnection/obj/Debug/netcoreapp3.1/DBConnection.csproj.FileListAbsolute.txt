@@ -4,3 +4,9 @@ D:\Desktop\HSTDH\Guru99\C#14_DatabaseConnection\DBConnection\DBConnection\obj\De
 D:\Desktop\HSTDH\Guru99\C#14_DatabaseConnection\DBConnection\DBConnection\obj\Debug\netcoreapp3.1\DBConnection.AssemblyInfoInputs.cache
 D:\Desktop\HSTDH\Guru99\C#14_DatabaseConnection\DBConnection\DBConnection\obj\Debug\netcoreapp3.1\DBConnection.AssemblyInfo.cs
 D:\Desktop\HSTDH\Guru99\C#14_DatabaseConnection\DBConnection\DBConnection\obj\Debug\netcoreapp3.1\DBConnection.csproj.CoreCompileInputs.cache
+C:\Users\Tech Store\Desktop\csharp\Guru99\C#14_DatabaseConnection\DBConnection\DBConnection\obj\Debug\netcoreapp3.1\DBConnection.csprojAssemblyReference.cache
+C:\Users\Tech Store\Desktop\csharp\Guru99\C#14_DatabaseConnection\DBConnection\DBConnection\obj\Debug\netcoreapp3.1\DBConnection.Form1.resources
+C:\Users\Tech Store\Desktop\csharp\Guru99\C#14_DatabaseConnection\DBConnection\DBConnection\obj\Debug\netcoreapp3.1\DBConnection.csproj.GenerateResource.cache
+C:\Users\Tech Store\Desktop\csharp\Guru99\C#14_DatabaseConnection\DBConnection\DBConnection\obj\Debug\netcoreapp3.1\DBConnection.AssemblyInfoInputs.cache
+C:\Users\Tech Store\Desktop\csharp\Guru99\C#14_DatabaseConnection\DBConnection\DBConnection\obj\Debug\netcoreapp3.1\DBConnection.AssemblyInfo.cs
+C:\Users\Tech Store\Desktop\csharp\Guru99\C#14_DatabaseConnection\DBConnection\DBConnection\obj\Debug\netcoreapp3.1\DBConnection.csproj.CoreCompileInputs.cache

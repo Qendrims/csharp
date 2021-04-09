@@ -1,0 +1,16 @@
+C:\Users\Tech Store\Desktop\csharp\Chapter8_VS\numberSystem\numberSystem\bin\Debug\net5.0\numberSystem.exe
+C:\Users\Tech Store\Desktop\csharp\Chapter8_VS\numberSystem\numberSystem\bin\Debug\net5.0\numberSystem.deps.json
+C:\Users\Tech Store\Desktop\csharp\Chapter8_VS\numberSystem\numberSystem\bin\Debug\net5.0\numberSystem.runtimeconfig.json
+C:\Users\Tech Store\Desktop\csharp\Chapter8_VS\numberSystem\numberSystem\bin\Debug\net5.0\numberSystem.runtimeconfig.dev.json
+C:\Users\Tech Store\Desktop\csharp\Chapter8_VS\numberSystem\numberSystem\bin\Debug\net5.0\numberSystem.dll
+C:\Users\Tech Store\Desktop\csharp\Chapter8_VS\numberSystem\numberSystem\bin\Debug\net5.0\ref\numberSystem.dll
+C:\Users\Tech Store\Desktop\csharp\Chapter8_VS\numberSystem\numberSystem\bin\Debug\net5.0\numberSystem.pdb
+C:\Users\Tech Store\Desktop\csharp\Chapter8_VS\numberSystem\numberSystem\obj\Debug\net5.0\numberSystem.csprojAssemblyReference.cache
+C:\Users\Tech Store\Desktop\csharp\Chapter8_VS\numberSystem\numberSystem\obj\Debug\net5.0\numberSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tech Store\Desktop\csharp\Chapter8_VS\numberSystem\numberSystem\obj\Debug\net5.0\numberSystem.AssemblyInfoInputs.cache
+C:\Users\Tech Store\Desktop\csharp\Chapter8_VS\numberSystem\numberSystem\obj\Debug\net5.0\numberSystem.AssemblyInfo.cs
+C:\Users\Tech Store\Desktop\csharp\Chapter8_VS\numberSystem\numberSystem\obj\Debug\net5.0\numberSystem.csproj.CoreCompileInputs.cache
+C:\Users\Tech Store\Desktop\csharp\Chapter8_VS\numberSystem\numberSystem\obj\Debug\net5.0\numberSystem.dll
+C:\Users\Tech Store\Desktop\csharp\Chapter8_VS\numberSystem\numberSystem\obj\Debug\net5.0\ref\numberSystem.dll
+C:\Users\Tech Store\Desktop\csharp\Chapter8_VS\numberSystem\numberSystem\obj\Debug\net5.0\numberSystem.pdb
+C:\Users\Tech Store\Desktop\csharp\Chapter8_VS\numberSystem\numberSystem\obj\Debug\net5.0\numberSystem.genruntimeconfig.cache

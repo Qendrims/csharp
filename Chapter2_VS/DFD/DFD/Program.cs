@@ -63,7 +63,10 @@ namespace DFD
             /* float num1 = 15.000001f;
              float num2 = 15.000001f;
              bool compare = num1 == num2;
-             Console.WriteLine(compare); */
+             Console.WriteLine(compare); 
+
+            int a = 256;
+            Console.WriteLine("Numri 256 ne Hexadecimal eshte: {0:X}", a); */
 
             //int number = 256;
             //number = 0x10;
@@ -113,8 +116,8 @@ namespace DFD
               uint id = 1174046774;
               Console.WriteLine("First name: {0}\nLast name: {1}\nAge: {2}\nSex: {3}\nId: {4}", emri, mbiemri, mosha, gjinia, id); 
             */
-           
-             int a = 5;
+
+            int a = 5;
              int b = 10;
              a = a + b;
              b = a - b;

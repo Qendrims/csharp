@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Desktop\\HSTDH\\Guru99\\C#14_DatabaseConnection\\DBConnection\\DBConnection\\DBConnection.csproj",
+      "projectUniqueName": "C:\\Users\\Tech Store\\Desktop\\csharp\\Guru99\\C#14_DatabaseConnection\\DBConnection\\DBConnection\\DBConnection.csproj",
       "projectName": "DBConnection",
-      "projectPath": "D:\\Desktop\\HSTDH\\Guru99\\C#14_DatabaseConnection\\DBConnection\\DBConnection\\DBConnection.csproj",
+      "projectPath": "C:\\Users\\Tech Store\\Desktop\\csharp\\Guru99\\C#14_DatabaseConnection\\DBConnection\\DBConnection\\DBConnection.csproj",
       "packagesPath": "C:\\Users\\Tech Store\\.nuget\\packages\\",
-      "outputPath": "D:\\Desktop\\HSTDH\\Guru99\\C#14_DatabaseConnection\\DBConnection\\DBConnection\\obj\\",
+      "outputPath": "C:\\Users\\Tech Store\\Desktop\\csharp\\Guru99\\C#14_DatabaseConnection\\DBConnection\\DBConnection\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Tech Store\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -63,7 +63,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Desktop\\HSTDH\\Chapter2_VS\\DFD\\DFD\\DFD.csproj",
+      "projectUniqueName": "C:\\Users\\Tech Store\\Desktop\\csharp\\Chapter2_VS\\DFD\\DFD\\DFD.csproj",
       "projectName": "DFD",
-      "projectPath": "D:\\Desktop\\HSTDH\\Chapter2_VS\\DFD\\DFD\\DFD.csproj",
+      "projectPath": "C:\\Users\\Tech Store\\Desktop\\csharp\\Chapter2_VS\\DFD\\DFD\\DFD.csproj",
       "packagesPath": "C:\\Users\\Tech Store\\.nuget\\packages\\",
-      "outputPath": "D:\\Desktop\\HSTDH\\Chapter2_VS\\DFD\\DFD\\obj\\",
+      "outputPath": "C:\\Users\\Tech Store\\Desktop\\csharp\\Chapter2_VS\\DFD\\DFD\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Tech Store\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

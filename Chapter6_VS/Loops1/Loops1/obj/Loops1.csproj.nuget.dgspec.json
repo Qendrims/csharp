@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Desktop\\HSTDH\\Chapter6_VS\\Loops1\\Loops1\\Loops1.csproj": {}
+    "C:\\Users\\Tech Store\\Desktop\\csharp\\Chapter6_VS\\Loops1\\Loops1\\Loops1.csproj": {}
   },
   "projects": {
-    "D:\\Desktop\\HSTDH\\Chapter6_VS\\Loops1\\Loops1\\Loops1.csproj": {
+    "C:\\Users\\Tech Store\\Desktop\\csharp\\Chapter6_VS\\Loops1\\Loops1\\Loops1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Desktop\\HSTDH\\Chapter6_VS\\Loops1\\Loops1\\Loops1.csproj",
+        "projectUniqueName": "C:\\Users\\Tech Store\\Desktop\\csharp\\Chapter6_VS\\Loops1\\Loops1\\Loops1.csproj",
         "projectName": "Loops1",
-        "projectPath": "D:\\Desktop\\HSTDH\\Chapter6_VS\\Loops1\\Loops1\\Loops1.csproj",
+        "projectPath": "C:\\Users\\Tech Store\\Desktop\\csharp\\Chapter6_VS\\Loops1\\Loops1\\Loops1.csproj",
         "packagesPath": "C:\\Users\\Tech Store\\.nuget\\packages\\",
-        "outputPath": "D:\\Desktop\\HSTDH\\Chapter6_VS\\Loops1\\Loops1\\obj\\",
+        "outputPath": "C:\\Users\\Tech Store\\Desktop\\csharp\\Chapter6_VS\\Loops1\\Loops1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Tech Store\\AppData\\Roaming\\NuGet\\NuGet.Config",

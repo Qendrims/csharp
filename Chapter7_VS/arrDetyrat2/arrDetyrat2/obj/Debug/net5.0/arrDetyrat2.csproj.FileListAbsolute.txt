@@ -1,0 +1,16 @@
+C:\Users\Tech Store\Desktop\csharp\Chapter7_VS\arrDetyrat2\arrDetyrat2\bin\Debug\net5.0\arrDetyrat2.exe
+C:\Users\Tech Store\Desktop\csharp\Chapter7_VS\arrDetyrat2\arrDetyrat2\bin\Debug\net5.0\arrDetyrat2.deps.json
+C:\Users\Tech Store\Desktop\csharp\Chapter7_VS\arrDetyrat2\arrDetyrat2\bin\Debug\net5.0\arrDetyrat2.runtimeconfig.json
+C:\Users\Tech Store\Desktop\csharp\Chapter7_VS\arrDetyrat2\arrDetyrat2\bin\Debug\net5.0\arrDetyrat2.runtimeconfig.dev.json
+C:\Users\Tech Store\Desktop\csharp\Chapter7_VS\arrDetyrat2\arrDetyrat2\bin\Debug\net5.0\arrDetyrat2.dll
+C:\Users\Tech Store\Desktop\csharp\Chapter7_VS\arrDetyrat2\arrDetyrat2\bin\Debug\net5.0\ref\arrDetyrat2.dll
+C:\Users\Tech Store\Desktop\csharp\Chapter7_VS\arrDetyrat2\arrDetyrat2\bin\Debug\net5.0\arrDetyrat2.pdb
+C:\Users\Tech Store\Desktop\csharp\Chapter7_VS\arrDetyrat2\arrDetyrat2\obj\Debug\net5.0\arrDetyrat2.csprojAssemblyReference.cache
+C:\Users\Tech Store\Desktop\csharp\Chapter7_VS\arrDetyrat2\arrDetyrat2\obj\Debug\net5.0\arrDetyrat2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tech Store\Desktop\csharp\Chapter7_VS\arrDetyrat2\arrDetyrat2\obj\Debug\net5.0\arrDetyrat2.AssemblyInfoInputs.cache
+C:\Users\Tech Store\Desktop\csharp\Chapter7_VS\arrDetyrat2\arrDetyrat2\obj\Debug\net5.0\arrDetyrat2.AssemblyInfo.cs
+C:\Users\Tech Store\Desktop\csharp\Chapter7_VS\arrDetyrat2\arrDetyrat2\obj\Debug\net5.0\arrDetyrat2.csproj.CoreCompileInputs.cache
+C:\Users\Tech Store\Desktop\csharp\Chapter7_VS\arrDetyrat2\arrDetyrat2\obj\Debug\net5.0\arrDetyrat2.dll
+C:\Users\Tech Store\Desktop\csharp\Chapter7_VS\arrDetyrat2\arrDetyrat2\obj\Debug\net5.0\ref\arrDetyrat2.dll
+C:\Users\Tech Store\Desktop\csharp\Chapter7_VS\arrDetyrat2\arrDetyrat2\obj\Debug\net5.0\arrDetyrat2.pdb
+C:\Users\Tech Store\Desktop\csharp\Chapter7_VS\arrDetyrat2\arrDetyrat2\obj\Debug\net5.0\arrDetyrat2.genruntimeconfig.cache
